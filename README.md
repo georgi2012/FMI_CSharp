@@ -1,2 +1,2 @@
 # sharp-projects
-Yeah , it empty . I don't have any good sharp projects that deserve being added here now ...
+Yeah , it empty . Projects are currently hidden until they are completed.
