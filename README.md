@@ -1,2 +1,2 @@
 # sharp-projects
-Yeah , it empty . Projects are currently hidden until they are completed.
+Yeah , it's empty . Projects are currently under progress and hidden until they are completed.
