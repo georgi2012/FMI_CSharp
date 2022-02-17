@@ -1,0 +1,15 @@
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\bin\Debug\Problem4_Command.exe.config
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\bin\Debug\Problem4_Command.exe
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\bin\Debug\Problem4_Command.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\Problem4_Command.csprojAssemblyReference.cache
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\MainWindow.g.cs
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\App.g.cs
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\Problem4_Command_MarkupCompile.cache
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\Problem4_Command_MarkupCompile.lref
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\MainWindow.baml
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\Problem4_Command.g.resources
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\Problem4_Command.Properties.Resources.resources
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\Problem4_Command.csproj.GenerateResource.cache
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\Problem4_Command.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\Problem4_Command.exe
+D:\ProgrammingProjects\OOP-CS.NET\Homework7\Problem4_Command\obj\Debug\Problem4_Command.pdb

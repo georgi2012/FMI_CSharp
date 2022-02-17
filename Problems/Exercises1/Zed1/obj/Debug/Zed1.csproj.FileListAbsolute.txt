@@ -1,0 +1,15 @@
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\bin\Debug\Zed1.exe.config
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\bin\Debug\Zed1.exe
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\bin\Debug\Zed1.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\Zed1.csprojAssemblyReference.cache
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\MainWindow.g.cs
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\App.g.cs
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\Zed1_MarkupCompile.cache
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\Zed1_MarkupCompile.lref
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\MainWindow.baml
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\Zed1.g.resources
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\Zed1.Properties.Resources.resources
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\Zed1.csproj.GenerateResource.cache
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\Zed1.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\Zed1.exe
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zed1\obj\Debug\Zed1.pdb

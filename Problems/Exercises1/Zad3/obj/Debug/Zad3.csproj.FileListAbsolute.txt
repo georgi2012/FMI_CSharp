@@ -1,0 +1,7 @@
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zad3\bin\Debug\Zad3.exe.config
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zad3\bin\Debug\Zad3.exe
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zad3\bin\Debug\Zad3.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zad3\obj\Debug\Zad3.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zad3\obj\Debug\Zad3.exe
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zad3\obj\Debug\Zad3.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Week1\Week1\Zad3\obj\Debug\Zad3.csprojAssemblyReference.cache

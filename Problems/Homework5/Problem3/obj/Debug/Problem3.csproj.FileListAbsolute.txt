@@ -1,0 +1,7 @@
+D:\ProgrammingProjects\OOP-CS.NET\Homework5\Problem3\bin\Debug\Problem3.exe.config
+D:\ProgrammingProjects\OOP-CS.NET\Homework5\Problem3\bin\Debug\Problem3.exe
+D:\ProgrammingProjects\OOP-CS.NET\Homework5\Problem3\bin\Debug\Problem3.pdb
+D:\ProgrammingProjects\OOP-CS.NET\Homework5\Problem3\obj\Debug\Problem3.csprojAssemblyReference.cache
+D:\ProgrammingProjects\OOP-CS.NET\Homework5\Problem3\obj\Debug\Problem3.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\Homework5\Problem3\obj\Debug\Problem3.exe
+D:\ProgrammingProjects\OOP-CS.NET\Homework5\Problem3\obj\Debug\Problem3.pdb

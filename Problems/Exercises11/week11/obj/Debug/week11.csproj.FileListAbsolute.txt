@@ -1,0 +1,16 @@
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\bin\Debug\week11.exe.config
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\bin\Debug\week11.exe
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\bin\Debug\week11.pdb
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\week11.csprojAssemblyReference.cache
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\MainWindow.g.cs
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\App.g.cs
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\week11_MarkupCompile.cache
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\week11_MarkupCompile.lref
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\MainWindow.baml
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\week11.g.resources
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\week11.Properties.Resources.resources
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\week11.csproj.GenerateResource.cache
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\week11.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\week11.exe
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\week11.pdb
+D:\ProgrammingProjects\OOP-CS.NET\week11\week11\obj\Debug\GeneratedInternalTypeHelper.g.cs
