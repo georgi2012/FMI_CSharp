@@ -1,9 +1,0 @@
-D:\ProgrammingProjects\OOP-CS.NET\Week7\Week7\bin\Debug\netcoreapp3.1\Week7.deps.json
-D:\ProgrammingProjects\OOP-CS.NET\Week7\Week7\bin\Debug\netcoreapp3.1\Week7.dll
-D:\ProgrammingProjects\OOP-CS.NET\Week7\Week7\bin\Debug\netcoreapp3.1\Week7.pdb
-D:\ProgrammingProjects\OOP-CS.NET\Week7\Week7\obj\Debug\netcoreapp3.1\Week7.csprojAssemblyReference.cache
-D:\ProgrammingProjects\OOP-CS.NET\Week7\Week7\obj\Debug\netcoreapp3.1\Week7.AssemblyInfoInputs.cache
-D:\ProgrammingProjects\OOP-CS.NET\Week7\Week7\obj\Debug\netcoreapp3.1\Week7.AssemblyInfo.cs
-D:\ProgrammingProjects\OOP-CS.NET\Week7\Week7\obj\Debug\netcoreapp3.1\Week7.csproj.CoreCompileInputs.cache
-D:\ProgrammingProjects\OOP-CS.NET\Week7\Week7\obj\Debug\netcoreapp3.1\Week7.dll
-D:\ProgrammingProjects\OOP-CS.NET\Week7\Week7\obj\Debug\netcoreapp3.1\Week7.pdb

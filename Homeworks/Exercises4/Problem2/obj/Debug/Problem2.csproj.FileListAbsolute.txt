@@ -1,7 +1,0 @@
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Problem2\bin\Debug\Problem2.exe.config
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Problem2\bin\Debug\Problem2.exe
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Problem2\bin\Debug\Problem2.pdb
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Problem2\obj\Debug\Problem2.csprojAssemblyReference.cache
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Problem2\obj\Debug\Problem2.exe
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Problem2\obj\Debug\Problem2.pdb

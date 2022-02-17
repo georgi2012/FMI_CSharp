@@ -1,6 +1,0 @@
-D:\ProgrammingProjects\OOP-CS.NET\week3\Ex4\bin\Debug\Ex4.exe.config
-D:\ProgrammingProjects\OOP-CS.NET\week3\Ex4\bin\Debug\Ex4.exe
-D:\ProgrammingProjects\OOP-CS.NET\week3\Ex4\bin\Debug\Ex4.pdb
-D:\ProgrammingProjects\OOP-CS.NET\week3\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
-D:\ProgrammingProjects\OOP-CS.NET\week3\Ex4\obj\Debug\Ex4.exe
-D:\ProgrammingProjects\OOP-CS.NET\week3\Ex4\obj\Debug\Ex4.pdb

@@ -1,7 +1,0 @@
-D:\ProgrammingProjects\OOP-CS.NET\week3\week3\bin\Debug\week3.exe.config
-D:\ProgrammingProjects\OOP-CS.NET\week3\week3\bin\Debug\week3.exe
-D:\ProgrammingProjects\OOP-CS.NET\week3\week3\bin\Debug\week3.pdb
-D:\ProgrammingProjects\OOP-CS.NET\week3\week3\obj\Debug\Prob3a.csprojAssemblyReference.cache
-D:\ProgrammingProjects\OOP-CS.NET\week3\week3\obj\Debug\Prob3a.csproj.CoreCompileInputs.cache
-D:\ProgrammingProjects\OOP-CS.NET\week3\week3\obj\Debug\week3.exe
-D:\ProgrammingProjects\OOP-CS.NET\week3\week3\obj\Debug\week3.pdb
