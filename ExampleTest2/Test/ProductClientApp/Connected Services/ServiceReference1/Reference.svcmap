@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="faa2389f-2d46-4b51-876a-5cbfc03df069" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57529/TradeProducts.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TradeProducts.wsdl" MetadataType="Wsdl" ID="cf67d2c3-2884-4a42-bb17-73e6c6bca3be" SourceId="1" SourceUrl="http://localhost:57529/TradeProducts.svc?wsdl" />
+    <MetadataFile FileName="TradeProducts1.wsdl" MetadataType="Wsdl" ID="61cbb969-f416-4001-a5de-e97b61890662" SourceId="1" SourceUrl="http://localhost:57529/TradeProducts.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="TradeProducts.xsd" MetadataType="Schema" ID="769166a4-5c90-4503-99e5-0b5d68c928fb" SourceId="1" SourceUrl="http://localhost:57529/TradeProducts.svc?xsd=xsd2" />
+    <MetadataFile FileName="TradeProducts1.xsd" MetadataType="Schema" ID="ab39520a-8955-4b2b-8ffe-89d9c06031a9" SourceId="1" SourceUrl="http://localhost:57529/TradeProducts.svc?xsd=xsd1" />
+    <MetadataFile FileName="TradeProducts2.xsd" MetadataType="Schema" ID="742c1ab9-7c55-4235-bfb5-322ca3b14f0f" SourceId="1" SourceUrl="http://localhost:57529/TradeProducts.svc?xsd=xsd0" />
+    <MetadataFile FileName="TradeProducts.disco" MetadataType="Disco" ID="9bf53501-ddb4-47c1-8818-1ff8b7abe615" SourceId="1" SourceUrl="http://localhost:57529/TradeProducts.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

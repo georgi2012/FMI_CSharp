@@ -1,0 +1,11 @@
+D:\ProgrammingProjects\OOP-CS.NET\ExampleTest2\Test\TradeSOAPService\bin\TradeSOAPService.dll.config
+D:\ProgrammingProjects\OOP-CS.NET\ExampleTest2\Test\TradeSOAPService\bin\TradeSOAPService.dll
+D:\ProgrammingProjects\OOP-CS.NET\ExampleTest2\Test\TradeSOAPService\bin\TradeSOAPService.pdb
+D:\ProgrammingProjects\OOP-CS.NET\ExampleTest2\Test\TradeSOAPService\bin\TradeSerives.dll
+D:\ProgrammingProjects\OOP-CS.NET\ExampleTest2\Test\TradeSOAPService\bin\TradeSerives.pdb
+D:\ProgrammingProjects\OOP-CS.NET\ExampleTest2\Test\TradeSOAPService\bin\TradeSerives.dll.config
+D:\ProgrammingProjects\OOP-CS.NET\ExampleTest2\Test\TradeSOAPService\obj\Debug\TradeSOAPService.csprojAssemblyReference.cache
+D:\ProgrammingProjects\OOP-CS.NET\ExampleTest2\Test\TradeSOAPService\obj\Debug\TradeSOAPService.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\ExampleTest2\Test\TradeSOAPService\obj\Debug\TradeSOAPService.csproj.CopyComplete
+D:\ProgrammingProjects\OOP-CS.NET\ExampleTest2\Test\TradeSOAPService\obj\Debug\TradeSOAPService.dll
+D:\ProgrammingProjects\OOP-CS.NET\ExampleTest2\Test\TradeSOAPService\obj\Debug\TradeSOAPService.pdb
