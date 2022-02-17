@@ -1,0 +1,7 @@
+D:\ProgrammingProjects\OOP-CS.NET\week5\week5\bin\Debug\week5.exe.config
+D:\ProgrammingProjects\OOP-CS.NET\week5\week5\bin\Debug\week5.exe
+D:\ProgrammingProjects\OOP-CS.NET\week5\week5\bin\Debug\week5.pdb
+D:\ProgrammingProjects\OOP-CS.NET\week5\week5\obj\Debug\week5.csprojAssemblyReference.cache
+D:\ProgrammingProjects\OOP-CS.NET\week5\week5\obj\Debug\week5.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\week5\week5\obj\Debug\week5.exe
+D:\ProgrammingProjects\OOP-CS.NET\week5\week5\obj\Debug\week5.pdb

@@ -1,0 +1,69 @@
+﻿<Window x:Class="Cash_Register.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cash_Register"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="609.813" Width="532.243">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+
+            <!--text-->
+            <TextBlock Grid.Row="1" Grid.Column="1" Text="$" FontSize="30" Margin="40 5 0 0"/>
+            <TextBox Grid.Row="1" Grid.ColumnSpan="6" ClipToBounds="False" Name="txtBox_Input" Margin="150 0 20 0" Background="LightGray" BorderThickness="2" TextAlignment="Right" FontSize="35" Text="0"/>
+            <!--number-->
+            <Button Name="bnt_1" Content="1" Click="OnAddCharToText" Margin="5 5 5 5" Grid.Row="3" Grid.Column="1" FontSize="25"/>
+            <Button Name="bnt_2" Content="2" Click="OnAddCharToText" Margin="5 5 5 5" Grid.Row="3" Grid.Column="2" FontSize="25"/>
+            <Button Name="bnt_3" Content="3" Click="OnAddCharToText" Margin="5 5 5 5" Grid.Row="3" Grid.Column="3" FontSize="25"/>
+            <!--second row-->                       
+            <Button Name="bnt_4" Content="4" Click="OnAddCharToText" Margin="5 5 5 5" Grid.Row="4" Grid.Column="1" FontSize="25"/>
+            <Button Name="bnt_5" Content="5" Click="OnAddCharToText" Margin="5 5 5 5" Grid.Row="4" Grid.Column="2" FontSize="25"/>
+            <Button Name="bnt_6" Content="6" Click="OnAddCharToText" Margin="5 5 5 5" Grid.Row="4" Grid.Column="3" FontSize="25"/>
+            <!--third-->                            
+            <Button Name="bnt_7" Content="7" Click="OnAddCharToText" Margin="5 5 5 5" Grid.Row="5" Grid.Column="1" FontSize="25"/>
+            <Button Name="bnt_8" Content="8" Click="OnAddCharToText" Margin="5 5 5 5" Grid.Row="5" Grid.Column="2" FontSize="25"/>
+            <Button Name="bnt_9" Content="9" Click="OnAddCharToText" Margin="5 5 5 5" Grid.Row="5" Grid.Column="3" FontSize="25"/>
+            <!--forth-->
+            <Button Name="bnt_Minus" Click="OnAddCharToText" Content="-" Margin="5 5 5 5" Grid.Row="6" Grid.Column="1" FontSize="25"/>
+            <Button Name="bnt_0" Click="OnAddCharToText" Content="0" Margin="5 5 5 5" Grid.Row="6" Grid.Column="2" FontSize="25"/>
+            <Button Name="bnt_Point" Click="OnAddCharToText" Content="." Margin="5 5 5 5" Grid.Row="6" Grid.Column="3" FontSize="25"/>
+            <!--Commands buttons-->
+            <Button Name="bnt_Enter" Click="OnEnter" Content="Enter" Margin="5 5 20 5" Grid.Row="3" Grid.Column="5" FontSize="25"/>
+            <Button Name="bnt_Total" Click="OnTotal" Content="Total" Margin="5 5 20 5" Grid.Row="4" Grid.Column="5" FontSize="25"/>
+            <Button Name="bnt_Delete" Click="OnDelete" Content="Delete" Margin="5 5 20 5" Grid.Row="5" Grid.Column="5" FontSize="25"/>
+            <Button Name="bnt_Clear" Click="OnClear" Content="Clear" Margin="5 5 20 5" Grid.Row="6" Grid.Column="5" FontSize="25"/>
+            <!--Data display-->
+            <TextBlock Text="Subtotal:" Grid.Row="8" Grid.ColumnSpan="4" FontSize="25" ClipToBounds="False" Margin="50 0 0 0"/>
+            <TextBlock Text="Tax:" Grid.Row="9" Grid.ColumnSpan="4" FontSize="25" ClipToBounds="False" Margin="50 0 0 0"/>
+            <TextBlock Text="Toal:" Grid.Row="10" Grid.ColumnSpan="4" FontSize="25" ClipToBounds="False" Margin="50 0 0 0"/>
+
+            <TextBox Text="{Binding Subtotal, Mode=OneWay}" Grid.Row="8" Grid.ColumnSpan="6" ClipToBounds="False" Name="txtBox_Subt" Margin="200 0 20 10" Background="LightGray" BorderThickness="2"  TextAlignment="Right" FontSize="25" />
+            <TextBox Text="{Binding Tax ,Mode=OneWay}" Grid.Row="9" Grid.ColumnSpan="6" ClipToBounds="False" Name="txtBox_Tax" Margin="200 0 20 10" Background="LightGray" BorderThickness="2"  TextAlignment="Right" FontSize="25"/>
+            <TextBox Text="{Binding Total ,Mode=OneWay}" Grid.Row="10" Grid.ColumnSpan="6" ClipToBounds="False" Name="txtBox_Total" Margin="200 0 20 10" Background="LightGray" BorderThickness="2"  TextAlignment="Right" FontSize="25"/>
+        </Grid>
+    </Grid>
+</Window>

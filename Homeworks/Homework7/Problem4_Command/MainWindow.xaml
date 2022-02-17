@@ -1,0 +1,17 @@
+﻿<Window x:Class="Problem4_Command.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Problem4_Command"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300">
+    <StackPanel>
+        <TextBox Name="txtBox" Margin="10,10"
+               FontWeight="Bold" Background="DarkSeaGreen"/>
+        <Button x:Name="btnValidate" HorizontalAlignment="Center" Padding="10,3"
+              FontWeight="Bold" Margin="1,0,1,0" Height="28" Width="67" />
+        <TextBlock Margin="0,15,0,0" Text="Press Ctrl+Q to validate lenght of your text" HorizontalAlignment="Center"/>
+        <TextBlock Margin="0,17,0,0" Text="Green is OK and Red is too short" HorizontalAlignment="Center"/>
+    </StackPanel>
+</Window>

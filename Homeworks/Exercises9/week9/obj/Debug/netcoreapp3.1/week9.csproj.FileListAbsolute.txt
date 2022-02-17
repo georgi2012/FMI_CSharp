@@ -1,0 +1,13 @@
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\bin\Debug\netcoreapp3.1\week9.exe
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\bin\Debug\netcoreapp3.1\week9.deps.json
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\bin\Debug\netcoreapp3.1\week9.runtimeconfig.json
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\bin\Debug\netcoreapp3.1\week9.runtimeconfig.dev.json
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\bin\Debug\netcoreapp3.1\week9.dll
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\bin\Debug\netcoreapp3.1\week9.pdb
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\obj\Debug\netcoreapp3.1\week9.csprojAssemblyReference.cache
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\obj\Debug\netcoreapp3.1\week9.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\obj\Debug\netcoreapp3.1\week9.AssemblyInfo.cs
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\obj\Debug\netcoreapp3.1\week9.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\obj\Debug\netcoreapp3.1\week9.dll
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\obj\Debug\netcoreapp3.1\week9.pdb
+D:\ProgrammingProjects\OOP-CS.NET\week9\week9\obj\Debug\netcoreapp3.1\week9.genruntimeconfig.cache
