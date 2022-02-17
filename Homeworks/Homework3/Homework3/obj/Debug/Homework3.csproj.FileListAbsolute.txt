@@ -1,7 +1,0 @@
-D:\ProgrammingProjects\OOP-CS.NET\Homework3\Homework3\bin\Debug\Homework3.exe.config
-D:\ProgrammingProjects\OOP-CS.NET\Homework3\Homework3\bin\Debug\Homework3.exe
-D:\ProgrammingProjects\OOP-CS.NET\Homework3\Homework3\bin\Debug\Homework3.pdb
-D:\ProgrammingProjects\OOP-CS.NET\Homework3\Homework3\obj\Debug\Homework3.csprojAssemblyReference.cache
-D:\ProgrammingProjects\OOP-CS.NET\Homework3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
-D:\ProgrammingProjects\OOP-CS.NET\Homework3\Homework3\obj\Debug\Homework3.exe
-D:\ProgrammingProjects\OOP-CS.NET\Homework3\Homework3\obj\Debug\Homework3.pdb

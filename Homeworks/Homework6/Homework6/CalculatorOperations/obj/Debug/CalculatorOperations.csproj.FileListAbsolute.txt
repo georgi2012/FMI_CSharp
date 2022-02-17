@@ -1,7 +1,0 @@
-D:\ProgrammingProjects\OOP-CS.NET\Homework6\Homework6\CalculatorOperations\obj\Debug\CalculatorOperations.csprojAssemblyReference.cache
-D:\ProgrammingProjects\OOP-CS.NET\Homework6\Homework6\CalculatorOperations\obj\Debug\CalculatorOperations.csproj.CoreCompileInputs.cache
-D:\ProgrammingProjects\OOP-CS.NET\Homework6\Homework6\CalculatorOperations\bin\Debug\CalculatorOperations.dll.config
-D:\ProgrammingProjects\OOP-CS.NET\Homework6\Homework6\CalculatorOperations\bin\Debug\CalculatorOperations.dll
-D:\ProgrammingProjects\OOP-CS.NET\Homework6\Homework6\CalculatorOperations\bin\Debug\CalculatorOperations.pdb
-D:\ProgrammingProjects\OOP-CS.NET\Homework6\Homework6\CalculatorOperations\obj\Debug\CalculatorOperations.dll
-D:\ProgrammingProjects\OOP-CS.NET\Homework6\Homework6\CalculatorOperations\obj\Debug\CalculatorOperations.pdb

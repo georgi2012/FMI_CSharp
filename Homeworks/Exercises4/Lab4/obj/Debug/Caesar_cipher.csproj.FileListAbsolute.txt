@@ -1,7 +1,0 @@
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Lab4\bin\Debug\Lab4.exe.config
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Lab4\bin\Debug\Lab4.exe
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Lab4\bin\Debug\Lab4.pdb
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Lab4\obj\Debug\Caesar_cipher.csprojAssemblyReference.cache
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Lab4\obj\Debug\Caesar_cipher.csproj.CoreCompileInputs.cache
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Lab4\obj\Debug\Lab4.exe
-D:\ProgrammingProjects\OOP-CS.NET\Lab4\Lab4\obj\Debug\Lab4.pdb
